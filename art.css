@@ -4,11 +4,8 @@ body {
 h1 {
   text-align: center;
   font-size: 72px;
-  background: -webkit-linear-gradient(#ff56ce ,  #ffb8eb);
+  background: -webkit-linear-gradient(#ff56ce , #ffb8eb);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: pink;
  }
-hr {
-  color: pink;
-}
