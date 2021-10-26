@@ -2,7 +2,13 @@ body {
   background-color: black;
  }
 h1 {
-  color: blue;
+  text-align: center;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#pink, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(to bottom, pink 0%,;
+  color: pink;
  }
 hr {
   color: pink;
