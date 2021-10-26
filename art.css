@@ -2,6 +2,7 @@ body {
   background-color: black;
  }
 h1 {
+  font-family:Helvetica, Bold Italic;
   text-align: center;
   font-size: 72px;
   background: -webkit-linear-gradient(#e800a6 , #fdd0f0);
