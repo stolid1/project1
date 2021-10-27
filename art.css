@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-image: url("6d4860315973126515234bc3994aa28c.gif");
  }
 h1 {
   font-family:Helvetica, Bold Italic;
@@ -8,5 +8,4 @@ h1 {
   background: -webkit-linear-gradient(#e800a6 , #fdd0f0);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  color: pink;
  }
