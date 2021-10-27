@@ -4,9 +4,15 @@
     <link rel="stylesheet"  type="text/css" href="art.css">
   </head>
     <body>
-      <audio controls>
+      <audio id="blaka" controls autoplay>
         <source src="boom.mp3" loop="true" autostart="true">
       </audio>
+      <script>
+        var vid = document.getElementById("blaka");
+      function setHalfVolume() { 
+  vid.volume = 0.2;
+} 
+      </script>
       <hr>
       <h1>Random</h1>
       <hr>
